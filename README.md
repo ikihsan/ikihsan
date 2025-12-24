@@ -20,8 +20,8 @@ I'm a **Fullstack Developer** experienced in building scalable backend systems, 
 
 - **Node.js, NestJS, Express**
 - **React, Next.js**
-- **PostgreSQL, Prisma, MongoDB, Redis**
-- **WebSockets, GraphQL, Firebase**
+- **PostgreSQL, Prisma, MongoDB, Redis, MySQL**
+- **Rest API, WebSockets, GraphQL, Firebase, Supabase, Convex**
 - **Docker, Nginx, Linux, CI/CD**
 
 I specialize in performance optimization, secure architecture, and end-to-end app development.
