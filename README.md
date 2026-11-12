@@ -7,7 +7,7 @@
 <h3 align="center">Fullstack Developer | Node.js • NestJS • React • Next.js</h3>
 
 <p align="center">
-  <a href="https://ikihsan.me">🌐 Portfolio</a> •
+  <a href="https://ihsanik.tech">🌐 Portfolio</a> •
   <a href="https://linkedin.com/in/ikihsan">💼 LinkedIn</a> •
   <a href="https://github.com/ikihsan">🐙 GitHub</a>
 </p>
