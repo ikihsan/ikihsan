@@ -22,7 +22,7 @@ i ship products end to end: backend, mobile, web, deploy.
 
 ```text
  PID  PROCESS                                   STATE
- 001  payments + reconciliation (rust)          running   @ Harwex Technology
+ 001  payments + reconciliation (rust)          running   
  002  rust -> kernel / OS development           learning
  003  cybersecurity + ethical hacking           exploring
  004  agentos (voice-first OS on AOSP)          phase 0 / specs
@@ -84,15 +84,7 @@ Where the low-level and security curiosity lives.
   </tr>
 </table>
 
-## `$ dmesg | grep career`
 
-```text
-[2026.06 - now ] harwex technology ....... rust payments, reconciliation, RBAC, audit framework
-[2026.02-2026.05] g3 interactive .......... NestJS/MySQL multi-tenant backend, Linux VPS, Nginx, TLS
-[2025.10-2026.02] spaceai ................. React/Next.js SaaS UI, AutoCAD revision diffing with Claude
-[2025.05-2025.09] autobse ................. NestJS/GraphQL, PostgreSQL indexes, Redis Pub/Sub, JWT/OAuth2
-[2021 - 2025   ] KMCT college of eng. ..... B.Tech, computer science
-```
 
 ## `$ cat roadmap.md`
 
